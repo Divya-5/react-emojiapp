@@ -8,7 +8,9 @@ const emojiDictionary = {
   "💫": "Dizzy",
   "💦": "Sweat Droplets",
   "💨": "Dashing Away",
-  "🐵": "Monkey Face"
+  "🐵": "Monkey Face",
+  "😐": "Neutral Face",
+  "😑": "Expressionless Face"
 };
 var emojiAvailable = Object.keys(emojiDictionary);
 export default function App() {
